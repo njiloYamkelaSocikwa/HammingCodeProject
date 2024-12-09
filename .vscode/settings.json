@@ -1,3 +1,7 @@
 {
-	"java.project.sourcePaths": ["HammingCodeProject/src"]
+	"java.project.sourcePaths": [
+		"src",
+		"lib",
+		"bin"
+	]
 }
